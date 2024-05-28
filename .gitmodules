@@ -1,3 +1,6 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/google/benchmark.git
